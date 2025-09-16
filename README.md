@@ -8,7 +8,7 @@ Julien Colomb. (2025). Guide and template for hardware project documentation. Ze
 
 
 
-> Note: This [repository home](https://codeberg.org/openmake/RHardware-minimaltemplate/branches) is on codeberg, it is mirrored on github, where the book is deployed and zenodo integration is performed.
+> Note: This [repository home](https://codeberg.org/openmake/Hardware-template-guide/branches) is on codeberg, it is mirrored on github, where the book is deployed and zenodo integration is performed.
 > Please prefer the codeberg repository to open issues.
 
 ## Vision: making documenting OSH projects easier.
@@ -24,7 +24,7 @@ The documentation should ease collaborative design work, and facilitate the reus
 
 ## Main outputs
 
--   Our guide developed inside the folder 91_Explanation_book and visible at <https://open-make.github.io/RHardware-minimaltemplate/>
+-   Our guide developed inside the folder 91_Explanation_book and visible at <https://open-make.github.io/Hardware-template-guide/>
 -   Templates (full or incremental versions) are accompanying the guide. Refer to the guide for a description of how to use this template.
 
 ## Problem description

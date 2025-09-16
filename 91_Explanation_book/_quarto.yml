@@ -8,7 +8,7 @@ book:
   author: Julien Colomb
   date: 2025-08-15
   search: true
-  repo-url: https://codeberg.org/openmake/RHardware-minimaltemplate
+  repo-url: https://codeberg.org/openmake/Hardware-template-guide/
   repo-subdir: 91_Explanation_book
   repo-actions:
   - issue

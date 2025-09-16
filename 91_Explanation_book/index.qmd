@@ -3,8 +3,8 @@
 ## Background
 
 ```{r, echo=FALSE}
-repositoryhome ="https://codeberg.org/openmake/RHardware-minimaltemplate"
-bookurl = "https://open-make.github.io/RHardware-minimaltemplate/"
+repositoryhome ="https://codeberg.org/openmake/Hardware-template-guide/"
+bookurl = "https://open-make.github.io/Hardware-template-guide/"
 ```
 
 After analyzing open source hardware documentation and existing templates (see below and @sec-sources), we are convinced that (1) documentation should grow with the different phases of a project and (2) the documentation should not restrict itself to the technical documentation necessary to reproduce the hardware, but should have a larger scope: the goal is not only to make the hardware (re-)producible, but to facilitate collaborative work in the development of the hardware (see Fig below).
