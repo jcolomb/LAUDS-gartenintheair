@@ -2,11 +2,12 @@
 
 This part is meant to give an overview of the hardware, more detailed description should be given in the 03_product_dvt/hardware_overview.md file.
 
-Give an overview of the hardware, what it does, how it was produced, and, if relevant, the research for which it has been used.
+Give an overview of the hardware, what it does (intended use), how it was produced, and, if relevant, the research for which it has been used.
 Write as much as possible for a general audience.
 That is, explain what the project is and what it is for, before you get into the technical details.
 Describe how the hardware was implemented/created, with relevant details of the architecture and design, including general materials.
-You may also describe any variants and associated implementation differences.
+
+You may also describe any variants and associated implementation differences, as well as give numbers about how many hardware were made and by whom.
 
 A schema, a picture or a video may be added here.
 
@@ -21,4 +22,4 @@ A schema, a picture or a video may be added here.
 
 **Sources**
 
-@sec-open-next-work, @sec-journal-of-open-hardware, @sec-source-turing
+@sec-open-next-work, @sec-journal-of-open-hardware, @sec-source-turing, @sec-source-OKH

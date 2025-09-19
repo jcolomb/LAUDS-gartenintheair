@@ -6,7 +6,7 @@ book:
   author: Julien Colomb
   date: 27/3/2025
   search: true
-  repo-url: https://github.com/open-make/RHardware-minimaltemplate/
+  repo-url: https://codeberg.org/openmake/Hardware-template-guide/
   repo-subdir: 91_Explanation_book
   repo-actions:
   - edit
@@ -20,7 +20,7 @@ book:
   - part: Steps
     chapters: content/960_prototypingasstep1_conc.qmd
   - part: Readme as a first entry door
-    chapters: content/001_Vision_and_motivation_conc.qmd
+    chapters: content/106_readme_main_conc.qmd
   - part: Community
     chapters: content/019_Community_-_work_culture_conc.qmd
   - part: Product development and use analysis
