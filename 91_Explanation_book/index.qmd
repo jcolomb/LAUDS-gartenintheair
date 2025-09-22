@@ -51,9 +51,10 @@ plot(qr)
 Cite this book via its zenodo archive: 
 
 
-## Guide version: 1.0
+## Guide version: 1.1
 
-This is the first stable version of the guide, based mostly on the theoretical framework developed inside the Open.Make project by the authors. It was checked for consistency between steps and chapters but was not yet tested outside the authors projects and any feedback is very welcome ! 
+- 1.0 This is the first stable version of the guide, based mostly on the theoretical framework developed inside the Open.Make project by the authors. It was checked for consistency between steps and chapters but was not yet tested outside the authors projects and any feedback is very welcome ! 
+- 1.1 New sources and new introductory chapter on metadata files were added.
 
 
 ## FAQ
