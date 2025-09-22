@@ -38,3 +38,16 @@ NB: The team behind this guide was involved in the redaction of these chapters.
 
 Docubricks is/was a metadata format providing best practices.
 The elements in this book were found on a wayback machine copy of the website in January 2025: <http://web.archive.org/web/20250120163655/https://www.docubricks.com/best-practise-guide.jsp>
+
+## Open know how manifest {#sec-source-OKH}
+
+Open Know-How is all about sharing knowledge on how to make things.
+The objective of this specification is to improve the open-ness of know-how for making hardware by improving the discoverability, portability and translatability of knowledge.
+\
+<https://standards.internetofproduction.org/pub/okh/release/1>
+
+## OKH - LOSH extension {#sec-source-okh-losh-version}
+
+Open Know-How Specification for the Library of Open Source Hardware subtitle: OKH-LOSH.
+<https://github.com/OPEN-NEXT/OKH-LOSH/blob/master/OKH-LOSH.md>\
+Only few addition were made from this source, as most of it is either very technical or too specialised.

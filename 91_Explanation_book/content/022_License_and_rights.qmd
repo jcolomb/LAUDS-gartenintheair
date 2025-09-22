@@ -16,13 +16,15 @@ Suggested license:
 -   Hardware: CERN-OHL-S Strongly reciprocal (most restrictive); CERN-OHL-W Weakly reciprocal; CERN-OHL-P Permissive (less restrictive). See: https://cern-ohl.web.cern.ch
 -   Software: Any of the Open Source Initiative approved license (https://opensource.org/licenses)
 
+At least one license should be indicated, use a SPDX identifier: <https://spdx.org/licenses/>
+
 > Example:
 >
-> This readme file, the 01_community, 02_project_history, and 05_user_guides folders are shared under a CC-BY 4.0 license, the 03_specification_concept and 04_hardware folders are shared undear a CERN-OHL-P license.
+> This readme file, the 01_community, 02_project_history, and 05_user_guides folders are shared under a CC-BY-4.0 license, the 03_specification_concept and 04_hardware folders are shared under a CERN-OHL-P-2.0 license.
 > The 11_software folder is shared under a MIT license.
 
 ------------------------------------------------------------------------
 
 **Sources**
 
-@sec-open-next-work, @sec-journal-of-open-hardware, @sec-source-turing
+@sec-open-next-work, @sec-journal-of-open-hardware, @sec-source-turing, @sec-source-OKH

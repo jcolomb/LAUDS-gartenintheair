@@ -27,5 +27,9 @@ So, our advice is to look at the checklists of each step also when you have a pr
 
 The process may help you to refine the scope of your project, potentially help you find your users and facilitate discussions with other contributors or investors.
 
+# Metadata
 
+In order to facilitate discovery, your documentation may have a OpenKnowHow manifest file, where information is provided in a computer readable form. Please refer to the online documentation and tools: https://okh.makernet.org/form.
+  Open Know-How Specification. (2022). Internet of Production Alliance. Retrieved from https://standards.internetofproduction.org/pub/okh
+  
 
