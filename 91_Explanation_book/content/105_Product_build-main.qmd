@@ -53,7 +53,7 @@ Production instructions should include:
 
 ## Modularisation {#sec-modularisation}
 
-When there are multiple parts, it is best practice to split the project into different modules and have a BOM for each part, and one BOM for the whole hardware.
+When there are multiple parts, it is best practice to split the project into different modules and have a BOM for each part, and one BOM for the whole hardware (see @sec-product-build-bill-of-material).
 For complex project, it is therefore best to create BOM automatically.
 Some software are meant to created BOM from the CAD files (CAD-coupled documentation, <https://doi.org/10.5334/joh.56>) or from the assembly instruction (using [Gitbuilding](https://gitbuilding.io)).
 

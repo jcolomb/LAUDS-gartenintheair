@@ -2,6 +2,7 @@
 
 Indicate what software is/was used in the development, this is particularly important for (expensive) CAD software, in order for collaborators to know if they have the right software and skills to help.
 Also indicate what software are used for the behavioral modelling, if there is any.
+Always indicate software name and version, possibly adding a link to the software online home.
 
 > Example
 >

@@ -3,15 +3,21 @@
 Computer assisted design is usually used to create structures from the models.
 The designs should be best provided in their raw format (Native formats), an editable standard format (Neutral formats), and a exported format used for manufacture.
 For example, a fusion .f3d file, a Step file and a STL file.
+Always indicate what software (including version number) was used to create the file (see @sec-software-used-for-development).
 
-If possible, create and provide your CAD files in an open format, using oan pen source software.
-Also try to name files with a clear name, add material specification and number of pieces.
+CAD files may contain different parts/modules in a single file.
+It is good practices to export an assemble view and an exploded view of the hardware (if the software does this).
+These views may be included in the BOM overview and the assembly instructions.
+
+If possible, create and provide your CAD files in an open format, using an pen source software.
+Also try to name files with a clear name, add material specification and number of pieces, the name of the file should correspond to the name of the part in the BOM (@sec-product-build-bill-of-material).
 
 ### Brief advice for object design:
 
 -   Design the project to be easily adaptable for common differences (for example metric vs imperial units) and adaptations.
--   make the design parametric (for example make product length and width dependent on one single parametric unit).
--   utilize asymmetric design to make parts fit together uniquely and avoid miss-assemblies.
+-   Make the design parametric (for example make product length and width dependent on one single parametric unit).
+-   Utilize asymmetric design to make parts fit together uniquely and avoid miss-assemblies.
+-   Use automation tools of the used programs
 
 ### CAD for electronics, PCB design
 
@@ -72,4 +78,4 @@ To reuse a design model, it should provide information consist of:
 
 **Sources**
 
-@sec-open-next-work, @sec-source-docubricks
+@sec-open-next-work, @sec-source-docubricks, @sec-source-oho

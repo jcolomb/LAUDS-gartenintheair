@@ -1,6 +1,6 @@
 # Sources {#sec-sources}
 
-## Open next work {#sec-open-next-work}
+## OpenNext work {#sec-open-next-work}
 
 The work was presented in a template at.
 <https://github.com/OPEN-NEXT/WP2.3-Guideline-and-template-for-documentation-of-OSH-design-reuse/tree/main>, based on the results provided as deliverable 2.6 at <https://github.com/OPEN-NEXT/WP2.3-Guideline-and-template-for-documentation-of-OSH-design-reuse/blob/main/Sources/Deliverable2_6%20_Final%20release%20of%20models%20and%20standards%20for%20design%20reuse_V4_20220930.pdf>
@@ -42,8 +42,7 @@ The elements in this book were found on a wayback machine copy of the website in
 ## Open know how manifest {#sec-source-OKH}
 
 Open Know-How is all about sharing knowledge on how to make things.
-The objective of this specification is to improve the open-ness of know-how for making hardware by improving the discoverability, portability and translatability of knowledge.
-\
+The objective of this specification is to improve the open-ness of know-how for making hardware by improving the discoverability, portability and translatability of knowledge.\
 <https://standards.internetofproduction.org/pub/okh/release/1>
 
 ## OKH - LOSH extension {#sec-source-okh-losh-version}
@@ -51,3 +50,8 @@ The objective of this specification is to improve the open-ness of know-how for 
 Open Know-How Specification for the Library of Open Source Hardware subtitle: OKH-LOSH.
 <https://github.com/OPEN-NEXT/OKH-LOSH/blob/master/OKH-LOSH.md>\
 Only few addition were made from this source, as most of it is either very technical or too specialised.
+
+### OHO know how {#sec-source-oho}
+
+The open hardware observatory developed some best practices aimed at facilitating reviews of hardware.
+This is particularly directed toward the technical aspect of the hardware project, including how to create BOM and document CAD files: <https://en.oho.wiki/wiki/Parts_list#Guidelines>, <https://en.oho.wiki/wiki/CAD_files>
