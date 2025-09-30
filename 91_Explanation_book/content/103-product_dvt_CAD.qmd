@@ -1,9 +1,15 @@
 ## Product design and CAD files {#sec-product-design-and-cad-files}
 
 Computer assisted design is usually used to create structures from the models.
-The designs should be best provided in their raw format (Native formats, best for making changes), an editable standard format (Neutral formats,  interchange and export formats that can be opened or imported by other CAD programs), and a exported format (Auxiliary format, ready-to-view outputs, may be used for production or for study the design) used for manufacture.
-For example, a fusion .f3d file, a Step file and a STL file.
-Always indicate what software (including version number) was used to create the file (see @sec-software-used-for-development).
+The designs should be best provided:
+
+- in their raw format (*Native formats*, best for making changes), 
+- an editable standard format (*Neutral formats*,  interchange and export formats that can be opened or imported by other CAD programs, they usually have large restriction in what one can edit in comparison with source format),
+- AND a exported format (*Auxiliary format*, ready-to-view outputs, may be used for production or for study the design) used for manufacture.
+
+For example, a fusion .f3d file in the native format, a Step file is a neutrla format and a STL file in an auxiliary format.
+
+Always indicate what software (including version number) was used to create the native format file (see @sec-software-used-for-development).
 
 CAD files may contain different parts/modules in a single file.
 It is good practices to export an assemble view and an exploded view of the hardware (if the software does this).
@@ -42,7 +48,7 @@ To reuse a electrical design, it should provide information consist of:
 
 > Examples:
 >
-> [Nasa-JPL, source files](https://github.com/nasa-jpl/open-source-rover/tree/master/electrical/pcb/arduino_uno_sheild/gerbers/rev_b)\*
+> [Nasa-JPL, neutral files, eschange format](https://github.com/nasa-jpl/open-source-rover/tree/master/electrical/pcb/arduino_uno_sheild/gerbers/rev_b)\*
 >
 > [AmbovVent, Neutral files](https://github.com/AmboVent-1690-108/AmboVent/tree/master/1-Electronics)\*
 
