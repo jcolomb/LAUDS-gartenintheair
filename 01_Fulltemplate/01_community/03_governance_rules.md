@@ -1,3 +1,4 @@
-La gobernanza corresponde principalmente a la comunidad donde se instala la vermicompostera. Si bien, en unas primeras fases el euqipo de coordinación, acompañado de expertos horticultores y vermicultores aportará unas indicaciones principales para el correcto cuidado del espacio.
+Governance primarily falls to the community where the vermicomposter is installed. However, during the initial phases, the coordination team, together with expert horticulturists and vermiculture specialists, will provide key guidelines for the proper care of the space.
 
-La comunidad tendrá que implantar un modelo de gobernanza no antropocéntrico sino que la comunidad de lombrices tendrá que compartir la centralidad. Se recomienda que haya una persona responsable del cumplimiento del CoC.
+The community will need to implement a non-anthropocentric governance model, in which the worm community shares the central role. It is recommended that one person be designated as responsible for ensuring compliance with the CoC (Code of Conduct).
+
