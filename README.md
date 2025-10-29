@@ -4,6 +4,7 @@ We provide here a guide to hack a plant pot and transform it into a vermicompost
 a modular system that can be adapted to both vertical and horizontal configurations..
 
 You can also cite and access the project files at:
+
 <https://room11.es/projects/LAUDS-RgitA/>
 
 <https://gardenatlas.net/garden/jardin-acondicionado-1/?filter=2>
