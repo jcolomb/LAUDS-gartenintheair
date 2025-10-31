@@ -1,6 +1,4 @@
-Here comes Documentation - How to use, build, repair, ... the piece of hardware described by the project.
+PDF with the main parts of the vermicomposter system to be placed in exteriors
 
-If you are creating a pdf or a website, you may split documentation sources and rendered documentation here.
-
-Add links in the main project readme to the different rendered documentation.
-
+- Shell assembly: recovering the properties of mashrabiya, an Islamic solution for Mediterranean window openings.
+- Vermicomposter: parts of the hacking of a plant pot in a vermicomposter.
