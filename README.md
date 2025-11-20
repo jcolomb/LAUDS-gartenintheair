@@ -1,4 +1,4 @@
-# Hacking a plant pot in a vermicomposter
+# Hacking a plant pot into a vermicomposter
 
 We provide here a guide to hack a plant pot and transform it into a vermicomposter,
 a modular system that can be adapted to both vertical and horizontal configurations.
@@ -78,7 +78,7 @@ Long term:
 
 ### Related projects
 
-see [source description file](/91_Explanation_book/content/22-sources.qmd)
+[to be completed]
 
 ## Funding
 
@@ -98,8 +98,8 @@ This was developed inside the LAUDS Factories call, facing the challenge "Greeni
 
 ### work culture 
 
--   [guidelines](01_community/guidelines.md)
--   [Code of conduct](01_community/coc.md)
+-   [guidelines](01_community/01_community_guidelines.md)
+-   [Code of conduct](01_community/02_coc.md)
 
 ## Documentation structure
 
