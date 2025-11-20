@@ -84,7 +84,7 @@ Long term:
 
 This was developed inside the LAUDS Factories call, facing the challenge "Greening Urban Spaces: Innovate Vertical Farming Systems from Local Waste Streams".
 
-[LAUDS Local Accessible Urban Digital Sustainable Factories](www.lauds.eu) is a Horizon Europe research and innovation action - Co-funded by the European Union, 2024-2026, GA 101135986.
+[LAUDS Local Accessible Urban Digital Sustainable Factories](https://www.lauds.eu) is a Horizon Europe research and innovation action - Co-funded by the European Union, 2024-2026, GA 101135986.
 
 
 ## Main contributors:
